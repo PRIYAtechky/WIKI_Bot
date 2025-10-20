@@ -15,13 +15,6 @@ It helps users get quick, reliable information from **Wikipedia** using simple c
 
 ---
 
-**WIKIBot:**  
-> Quantum Computing is a type of computation that uses quantum phenomena like superposition and entanglement.  
->  
-> 🔗 [Read more on Wikipedia](https://en.wikipedia.org/wiki/Quantum_computing)
-
----
-
 ## 🛠 Tech Stack
 
 - **Language:** Deluge Script  
