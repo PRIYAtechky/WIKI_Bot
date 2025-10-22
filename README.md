@@ -3,12 +3,10 @@
 **WIKIBot** is an intelligent assistant developed during **Cliqtrix 2025 – A Coding Contest by Zoho**.  
 It is designed to fetch concise, accurate, and reliable information directly from **Wikipedia**, allowing users to access knowledge instantly through a simple chat interface.
 
----
 
-## Overview
-
-WIKIBot provides users with summarized responses in a visually appealing card format, including a direct source link for further exploration.  
-It can be integrated into platforms like **Zoho Cliq** to enhance communication and learning experiences.
+<p align="center">
+  <img src="https://oweb.zohowebstatic.com/sites/oweb/images/cliqtrix/cliqtrix-banner.jpg" width="50%" height="2%">
+</p>
 
 ---
 
@@ -20,6 +18,10 @@ It can be integrated into platforms like **Zoho Cliq** to enhance communication 
 - 🆘 **Help Command:** Guides users on how to interact with the bot  
 - ⚙️ **Smart Error Handling:** Handles invalid or missing queries gracefully  
 - 🌐 **Reliable Source:** Fetches verified data directly from Wikipedia’s API  
+
+<img src="https://cdn.dribbble.com/userupload/32122583/file/original-400827bdf243931c8ffd26a268a837ce.gif" width="60%" height="10%">
+
+
 
 ---
 
@@ -101,6 +103,8 @@ Users can type `help` to view usage instructions and examples.
 ---
 
 ##  Project Origin
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuZWVgq2wX-FXyhw2TJ1tTG4hoQ3QNUVcchg&s" width="60%" height="10%">
 
 This project was created as part of  
 **Cliqtrix 2025 – A Coding Contest by Zoho**,  
