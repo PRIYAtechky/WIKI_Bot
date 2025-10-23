@@ -3,12 +3,11 @@
 **WIKIBot** is an intelligent assistant developed during **Cliqtrix 2025 – A Coding Contest by Zoho**.  
 It is designed to fetch concise, accurate, and reliable information directly from **Wikipedia**, allowing users to access knowledge instantly through a simple chat interface.
 
-
 <p align="center">
   <img src="https://oweb.zohowebstatic.com/sites/oweb/images/cliqtrix/cliqtrix-banner.jpg" width="50%" height="2%">
 </p>
 
----
+
 
 ## Features
 
@@ -22,8 +21,6 @@ It is designed to fetch concise, accurate, and reliable information directly fro
 <img src="https://cdn.dribbble.com/userupload/32122583/file/original-400827bdf243931c8ffd26a268a837ce.gif" width="60%" height="10%">
 
 
-
----
 
 ## How It Works
 
@@ -43,7 +40,7 @@ The bot displays:
 4. **Help Command:**  
 Users can type `help` to view usage instructions and examples.
 
----
+
 
 ## Example Interaction
 
@@ -55,7 +52,7 @@ Users can type `help` to view usage instructions and examples.
 >  
 > 🔗 [Read more on Wikipedia](https://en.wikipedia.org/wiki/Quantum_computing)
 
----
+
 
 ## Tech Stack
 
@@ -66,7 +63,7 @@ Users can type `help` to view usage instructions and examples.
 | **API Used** | Wikipedia REST API |
 | **Integration** | `invokeUrl` connection to Wikipedia |
 
----
+
 
 ## ⚠️ Error Handling
 
@@ -76,7 +73,7 @@ Users can type `help` to view usage instructions and examples.
 - **No Data Found:**  
   _“Sorry, I couldn’t find any information on that topic. Please try another query.”_
 
----
+
 
 ## Benefits
 
@@ -86,7 +83,7 @@ Users can type `help` to view usage instructions and examples.
 - Easy-to-use command structure  
 - Seamless integration within Zoho Cliq  
 
----
+
 
 ## Developer Notes
 
@@ -100,7 +97,6 @@ Users can type `help` to view usage instructions and examples.
    - Participation  
 4. Test commands like `/Wiki(Zoho)` and `help`.
 
----
 
 ##  Project Origin
 
@@ -109,6 +105,7 @@ Users can type `help` to view usage instructions and examples.
 This project was created as part of  
 **Cliqtrix 2025 – A Coding Contest by Zoho**,  
 focusing on creativity, innovation, and practical problem-solving using **Zoho Cliq Bots**.
+
 
 ---
 
